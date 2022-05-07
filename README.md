@@ -133,3 +133,7 @@ Place fer2013.csv under dataset directory
 
 # Status
 The code is provided as is, without warranty or support.
+
+# ML application code
+ML logic on this G-RING application example is based on below repository.
+https://github.com/yoshidan/pytorch-facial-expression-recognition
